@@ -6,7 +6,7 @@ Here you can find the latest versions of our applications for Android and Window
 > **Note:** All source code is private. This repository is strictly for hosting public downloads.
 
 ---
-<img width="2752" height="1536" alt="cimple_bg" src="https://github.com/user-attachments/assets/5c7d57f5-9559-4c79-97e2-2cd9034fad2b" />
+<img width="2752" height="1536" alt="cimple_bg" src="https://online-test-cimple.neocities.org/cimple_bg.png" />
 ## 📱 Available Applications
 
 
