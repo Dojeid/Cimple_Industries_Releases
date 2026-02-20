@@ -17,6 +17,10 @@ Cimple is a performance-oriented programming language designed with Python-like 
 
 This repository contains the early-stage compiler frontend built using a handwritten recursive-descent parser.
 
+| Platform | Type | Link |
+| :--- | :--- | :--- |
+| **Windows-x64/x86** | `.exe` | **[⬇️ Download ](https://github.com/Dojeid/Cimple_Industries_Releases/releases/tag/v0.0.1)** |
+
 ## Current Status
 
 Cimple v0.1.0 supports:
