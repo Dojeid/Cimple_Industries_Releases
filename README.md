@@ -8,6 +8,9 @@ Here you can find the latest versions of our applications for Android and Window
 ---
 <img width="2752" height="1536" alt="cimple_bg" src="https://github.com/user-attachments/assets/5c7d57f5-9559-4c79-97e2-2cd9034fad2b" />
 ## 📱 Available Applications
+
+
+
 # 2.Cimple
 
 Cimple is a performance-oriented programming language designed with Python-like syntax and systems-level capability in mind.
