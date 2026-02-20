@@ -24,3 +24,51 @@ Here you can find the latest versions of our applications for Android and Window
 ### 📬 Contact
 **Cimple Industries**
 *Salem, Tamil Nadu*
+
+# 2.Cimple
+
+Cimple is a performance-oriented programming language designed with Python-like syntax and systems-level capability in mind.
+
+This repository contains the early-stage compiler frontend built using a handwritten recursive-descent parser.
+
+## Current Status
+
+Cimple v0.1.0 supports:
+
+- Function definitions
+- If / Elif / Else
+- While loops
+- Assignments
+- Return statements
+- Arithmetic, boolean, bitwise expressions
+- Comparisons
+- Function calls
+- String and numeric literals
+
+This is a syntax-focused milestone.  
+Semantic analysis, type checking, and code generation are under active development.
+
+## Design Goals
+
+- Clean Python-style syntax
+- Predictable performance
+- LLVM-based backend
+- Low-level control without syntactic noise
+- Minimal core language, extensible by design
+
+## Roadmap
+
+The next major focus areas:
+
+- Type system implementation
+- Semantic analyzer
+- LLVM IR generation
+- GPU programming extensions
+- Toolchain stabilization
+
+Cimple is currently experimental and subject to breaking changes.
+
+---
+
+Building a language is a long-term systems engineering effort.  
+v0.1.0 is the foundation.
