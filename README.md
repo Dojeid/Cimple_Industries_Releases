@@ -1,4 +1,4 @@
-# 🏭 Cimple Industries - Download Hub
+#  Cimple Language - Download Hub
 
 Welcome to the official release repository for **Cimple Industries**.
 Here you can find the latest versions of our applications for Android and Windows.
@@ -7,11 +7,8 @@ Here you can find the latest versions of our applications for Android and Window
 
 ---
 <img width="2752" height="1536" alt="cimple_bg" src="https://raw.githubusercontent.com/Dojeid/Cimple_Industries_Releases/refs/heads/main/cimple_bg.png" />
-## 📱 Available Applications
 
-
-
-# 2.Cimple
+# Cimple
 
 Cimple is a performance-oriented programming language designed with Python-like syntax and systems-level capability in mind.
 
@@ -23,7 +20,7 @@ This repository contains the early-stage compiler frontend built using a handwri
 
 ## Current Status
 
-Cimple v0.1.0 supports:
+Cimple v0.0.1 supports:
 
 - Function definitions
 - If / Elif / Else
@@ -61,23 +58,7 @@ Cimple is currently experimental and subject to breaking changes.
 ---
 
 Building a language is a long-term systems engineering effort.  
-v0.1.0 is the foundation.
-
-
-
-
-
-### 1. Maths OneMarks - Cimple 📚
-*A fast, offline practice tool for 12th Standard Maths.*
-
-| Platform | Type | Link |
-| :--- | :--- | :--- |
-| **Android** | `.apk` | **[⬇️ Download for Android](https://github.com/Dojeid/Cimple_Industries_Releases/releases/tag/v0.0.1)** |
-| **Windows** | `.exe` | **[⬇️ Download for Windows](https://github.com/Dojeid/Cimple_Industries_Releases/releases/tag/v0.0.1)** |
-
-*(More apps coming soon...)*
-
----
+cimplev0.0.1 is the foundation.
 
 ### 📬 Contact
 **Cimple Industries**
